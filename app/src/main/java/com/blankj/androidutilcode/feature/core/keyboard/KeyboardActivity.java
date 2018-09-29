@@ -10,12 +10,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.blankj.androidutilcode.R;
-import com.blankj.androidutilcode.base.BaseActivity;
 import com.blankj.androidutilcode.base.BaseBackActivity;
 import com.blankj.androidutilcode.helper.DialogHelper;
-import com.blankj.utilcode.util.BarUtils;
 import com.blankj.utilcode.util.KeyboardUtils;
-import com.blankj.utilcode.util.ScreenUtils;
 import com.blankj.utilcode.util.SpanUtils;
 
 /**
